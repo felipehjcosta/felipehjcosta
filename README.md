@@ -8,7 +8,7 @@
 [![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/felipehjcosta)](https://dev.to/felipehjcosta)
 
 
-I'm **Felipe Costa**, a passionate Software Craftsman about mobile technologies and open source with more than 10 years of experience as a software enginer. Committed to the projects that I take part on and self-oriented following the best technical practices like TDD, Behavior-Driven Development (BDD), refactoring, pair programming and continuous delivery alongside with Agile Practices. 
+I'm **Felipe Costa**, a passionate Software Craftsman about mobile technologies and open source with more than 10 years of experience as a software engineer. Committed to the projects that I take part on and self-oriented following the best technical practices like TDD, Behavior-Driven Development (BDD), refactoring, pair programming and continuous delivery alongside with Agile Practices. 
 
 
 - I’m working as Sowftware Engineering Manager at [@olxbr](https://github.com/olxbr/)
